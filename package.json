@@ -1,0 +1,27 @@
+{
+  "name": "angular-jsoncorsdb-redux",
+  "version": "0.0.1",
+  "description": "angular jsoncorsdb-redux",
+  "main": "./dist/angular-jsoncorsdb-redux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guillaume/angular-jsoncorsdb-redux"
+  },
+  "keywords": [
+    "angular",
+    "jsoncorsdb"
+  ],
+  "author": "Guillaume Lecomte <guillaume86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaume/angular-jsoncorsdb-redux/issues"
+  },
+  "homepage": "https://github.com/guillaume/angular-jsoncorsdb-redux",
+  "devDependencies": {
+    "gulp-coffee": "^2.2.0",
+    "gulp": "^3.8.7"
+  }
+}
