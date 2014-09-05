@@ -1,0 +1,21 @@
+{
+  "name": "angular-jsoncorsdb-redux",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guillaume86/angular-jsoncorsdb-redux",
+  "authors": [
+    "Guillaume Lecomte <guillaume86@gmail.com>"
+  ],
+  "description": "angular jsoncorsdb",
+  "keywords": [
+    "angular",
+    "jsoncorsdb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
